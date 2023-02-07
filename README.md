@@ -10,5 +10,5 @@ How to run:
 3) run the notebook
 
 If planned revenue changed:
-1) drop data from the warehouse for the dates planned revenue changed
+1) drop data from the warehouse for the dates planned revenue changed (table ANALYST.temp.planned_rev_pacing_2)
 2) rerun the notebook
